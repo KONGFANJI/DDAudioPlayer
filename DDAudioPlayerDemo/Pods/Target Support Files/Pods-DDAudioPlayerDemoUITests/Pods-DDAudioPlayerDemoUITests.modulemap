@@ -1,0 +1,6 @@
+framework module Pods_DDAudioPlayerDemoUITests {
+  umbrella header "Pods-DDAudioPlayerDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
